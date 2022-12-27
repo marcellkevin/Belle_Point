@@ -38,6 +38,7 @@ class LoginController extends Controller
             else if($roleUser == "role0004"){
                 return redirect()-> intended('marketingView');
             }
+            else if 
             
         }
         
